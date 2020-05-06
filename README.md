@@ -12,7 +12,7 @@ When message is being pushed:
 ![](screenshots/publish.JPG)
 
 once publishing message is stopped:
-![](images/stop_publish.JPG)
+![](screenshots/stop_publish.JPG)
 
 To run this appplication:
 install RabbitMQ and Golang in your local.
