@@ -7,9 +7,9 @@ Before start of pushing the messages:
 ![](images/intially.JPG)
 
 When message is being pushed:
-![](images/ongoing-publish.JPG)
-![](images/ongoing-publish1.JPG)
-![](images/publish.JPG)
+![](screenshots/ongoing-publish.JPG)
+![](screenshots/ongoing-publish1.JPG)
+![](screenshots/publish.JPG)
 
 once publishing message is stopped:
 ![](images/stop_publish.JPG)
