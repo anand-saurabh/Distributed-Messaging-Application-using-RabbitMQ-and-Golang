@@ -1,6 +1,6 @@
 # Distributed-Messaging-Application-using-RabbitMQ-and-Golang
 
-This is messaging application build using RabbitMQ as the message-broker. I implented this using Golang language as I wanted to learn Golang.
+This is messaging application build using RabbitMQ as the message-broker. I implemented this using Golang language as I wanted to learn Golang.
 
 These screesnhots are the screesnhots of runnign the RabbitMQ server in local.
 Before start of pushing the messages:
